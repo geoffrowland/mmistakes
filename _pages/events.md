@@ -5,4 +5,4 @@ permalink: /events/
 taxonomy: event
 ---
 
-Sample post listing for the category *events*.
+Sample post listing for the category *event*.
