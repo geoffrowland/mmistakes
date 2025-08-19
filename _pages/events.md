@@ -2,7 +2,7 @@
 title: Events
 layout: category
 permalink: /events/
-taxonomy: events
+taxonomy: event
 ---
 
 Sample post listing for the category `events`.
