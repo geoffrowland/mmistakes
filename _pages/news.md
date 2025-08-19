@@ -5,4 +5,4 @@ permalink: /news/
 taxonomy: news
 ---
 
-Sample post listing for the category `news`.
+Sample post listing for the category *news*.
