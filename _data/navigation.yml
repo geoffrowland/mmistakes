@@ -1,6 +1,4 @@
 main:
-  - title: "Splash"
-    url: /splash/
   - title: "News"
     url: /news/
   - title: "Events"
