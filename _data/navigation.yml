@@ -3,6 +3,8 @@ main:
     url: /news/
   - title: "Events"
     url: /events/
+  - title: "Events-Archive"
+    url: /events-archive/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
