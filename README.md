@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme
+# Minimal Mistakes theme
 
 https://geoffrowland.github.io/mmistakes/
 
