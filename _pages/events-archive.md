@@ -1,6 +1,6 @@
 ---
 title: "Events Archive"
-layout: categories
+layout: posts
 permalink: /events-archive/
 taxonmy: event
 author_profile: true
