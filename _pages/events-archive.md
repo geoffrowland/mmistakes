@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "Events Archive"
 layout: categories
-permalink: /categories/
+permalink: /events-archive/
 taxonmy: event
 author_profile: true
 ---
